@@ -1,15 +1,6 @@
 import random
 import os
 a = [
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
     'impact',
     'regret',
     'hostile',
@@ -149,6 +140,11 @@ a = [
     'opinion',
     'record',
     'habit',
+    'university',
+    'career',
+    'ensure',
+    'extent',
+    'congratulate',
     ]
 
 while True:
