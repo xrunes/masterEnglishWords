@@ -378,6 +378,30 @@ a = [
     'harness',
     'ignorance',
     'amend',
+    'spontaneous',
+    'sponge',
+    'advertise',
+    'inquire',
+    'realm',
+    'corporate',
+    'coal',
+    'heir',
+    'prior',
+    'engagement',
+    'gasoline',
+    'swing',
+    'deem',
+    'choke',
+    'goodness',
+    'tempo',
+    'reach',
+    'gradual', # The graph shows a gradual increase.
+    'hut',
+    'further',
+    'administration',
+    'facet',
+    'diamond',
+    
     ]
 
 while True:
